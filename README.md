@@ -57,11 +57,11 @@ The project is fully responsive and optimized for:
 ## 📖 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/sh22o/fokir-portfolio.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd project-folder
+   cd fokir
    ```
 3. Open `index.html` in your browser or use Live Server for a better experience.
 
