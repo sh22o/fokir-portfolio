@@ -1,5 +1,4 @@
-# Personal Portfolio - Route Academy (Assignment 2)
-
+# Personal Portfolio 
 ## 📌 Project Overview
 This is **Assignment 2** for **Route Academy**, designed as a personal portfolio website. The project is built using **HTML** and **CSS**, incorporating **Bootstrap** for styling and layout structure. The design is fully responsive, utilizing **Flexbox** and **media queries** to ensure a seamless experience across different screen sizes.
 
